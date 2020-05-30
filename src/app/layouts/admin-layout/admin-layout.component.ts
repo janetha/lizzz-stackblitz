@@ -3,9 +3,9 @@ import { Location, LocationStrategy, PathLocationStrategy, PopStateEvent } from 
 import 'rxjs/add/operator/filter';
 import { NavbarComponent } from '../../components/navbar/navbar.component';
 import { Router, NavigationEnd, NavigationStart } from '@angular/router';
-import { Subscription } from 'rxjs/Subscription';
+import { Subscription } from 'rxjs';
 import PerfectScrollbar from 'perfect-scrollbar';
-import * as $ from "jquery";
+import * as $ from 'jquery";
 
 @Component({
   selector: 'app-admin-layout',

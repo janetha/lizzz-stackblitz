@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://kritzermarketing.net:4000'
+  apiUrl: 'https://angular-ivy-woa8ui.stackblitz.io'
 };
