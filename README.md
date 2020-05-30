@@ -1,3 +1,2 @@
-# angular-ivy-woa8ui
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-woa8ui)
+# [Material Dashboard Angular - Free Bootstrap Material Design Admin](https://www.creative-tim.com/product/material-dashboard-angular2)
+Template by Creative Tim
